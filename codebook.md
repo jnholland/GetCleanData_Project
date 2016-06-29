@@ -1,5 +1,6 @@
 
 The data for the project are sourced from :
+
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The Variables included:
